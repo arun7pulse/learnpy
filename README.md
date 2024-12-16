@@ -168,3 +168,55 @@ print(type(x))  # Output: <class 'int'>
 y = "Hello"
 print(type(y))  # Output: <class 'str'>
 ```
+
+
+
+
+# Data Type:
+integer  
+floating
+boolean 
+String site="google.com"
+String site1="facebook.com"
+
+strlist = [
+    "google.com",
+    "faceook.com"
+]
+Data Struture 
+list [1,2,3,4,5,5]
+list[
+    "google.com",
+    "faceook.com"
+]
+Set (2,1,3,4,5)
+Dict {"name":arun, number:9378468374}
+Tuple (1,2,3,4)
+
+numpy 
+Pandas
+parquet
+arrowtable
+
+
+
+# Opeartors:
+
+Numerical Operators
+- "+"
+
+
+Comparision Operators
+Logical Operators
+Assignment Operators
+
+
+
+# Formating String 
+
+placeholders:
+%s - String
+%d - Integer
+%f - Float (you can specify precision, e.g., %.2f for 2 decimal places)
+%x - Hexadecimal
+
